@@ -1,0 +1,19 @@
+/* footer*/
+footer {background-color: #ffffff;}
+.s-lc-public-footer {background-color: #EBEBEB}
+
+/* local footer*/
+.local-footer {padding-top: 1em; padding-bottom: 1em}
+.local-footer .menu li{list-style-type: none}
+.local-footer .social { display: flex; padding: 0px}
+.local-footer .social li{list-style-type: none;margin-right: 15px; font-size:1.35em}
+.local-footer .social a{display: flex; color: #FFFFFF; background-color: #000000; width: 30px; height: 30px; border-radius: 30px; text-decoration: none; align-items: center; justify-content:center}
+.local-footer .menu {padding: 0px}
+.row h4{font-weight: 700}
+.local-footer .map {max-width:100%}
+
+/* global-footer-bottom */
+.global-footer-bottom {background-color: #004C9B}
+.global-footer-bottom .global-footer-links {display: flex; list-style-type: none; padding-top: 1em; padding-bottom: 1em; margin: 0px; padding-left: 0px}
+.global-footer-bottom .global-footer-links a{color: #FFFFFF; font-weight: 500;}
+.global-footer-bottom .global-footer-links li + li:before {content: "/\00a0"; padding: 0 5px; color: #CCC;}
